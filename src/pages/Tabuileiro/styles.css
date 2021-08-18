@@ -1,0 +1,17 @@
+.tabuleiro {
+	background-color: #fff;
+	width: 400px;
+	margin: 100px auto;
+	border-radius: 20px;
+	padding: 20px;
+}
+
+.tabuleiro .jogadores {
+	display: flex;
+	justify-content: center;
+	margin: 30px auto;
+	padding: 20px;
+	background-color: #d9ffff;
+	width: 90%;
+	border-radius: 20px;
+}
