@@ -14,8 +14,8 @@ function Jogador({ pontos, imagem, label }) {
 	return (
 		<div className="jogador">
 			{label}
-			<p>{ pontos}</p>
-			<img src={ imagens[imagem] } alt="" />
+			<p>{pontos}</p>
+			<img src={imagens[imagem]} alt="" />
 		</div>
 	);
 }
